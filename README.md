@@ -5,4 +5,4 @@ A simple tailwind css based UI for web developers who are looking for a template
 
 ## Screenshots
 
-![furniture](https://github.com/Deebo2/furniture/furniture.jpg)
+![furniture](https://github.com/Deebo2/furniture/blob/master/furniture.jpg)
